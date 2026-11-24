@@ -78,6 +78,7 @@
 
 ## Cloud Platforms
 
+- [Apidly Cloud](https://apidly.com/) - Managed GPU servers and serverless endpoints for AI workloads, billed by the second with spending limits.
 - [AWS SageMaker](https://aws.amazon.com/sagemaker/) - A comprehensive platform for building, training, and deploying machine learning models on AWS.
 - [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/) - A cloud-based platform for training, deploying, and managing machine learning models.
 - [Google AI Platform](https://cloud.google.com/ai-platform) - Google Cloud’s integrated environment for AI development and deployment.
